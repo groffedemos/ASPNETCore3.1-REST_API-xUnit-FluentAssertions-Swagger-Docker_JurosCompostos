@@ -27,7 +27,7 @@ namespace APIFinancas
                     new OpenApiInfo
                     {
                         Title = "Juros Compostos",
-                        Version = "v2",
+                        Version = "v3",
                         Description = "Exemplo de API REST criada com o ASP.NET Core 3.1 para cálculo de juros compostos/empréstimos",
                         Contact = new OpenApiContact
                         {
