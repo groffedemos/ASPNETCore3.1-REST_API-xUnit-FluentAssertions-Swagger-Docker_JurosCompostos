@@ -26,8 +26,8 @@ namespace APIFinancas
                 c.SwaggerDoc("v1",
                     new OpenApiInfo
                     {
-                        Title = "Juros Compostos",
-                        Version = "v3",
+                        Title = "Juros Compostos - TDC Recife",
+                        Version = "v4",
                         Description = "Exemplo de API REST criada com o ASP.NET Core 3.1 para cálculo de juros compostos/empréstimos",
                         Contact = new OpenApiContact
                         {
